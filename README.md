@@ -11,7 +11,7 @@ Analyzed Reddit discussions and player sentiment to understand how pre- and post
 
 **Tech:** Python, NLP, Data Visualization
 
-- 🔗 GitHub: [link]
+- 🔗 GitHub: [link](https://github.com/o1s31/game-sentiment-analysis/tree/main)
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAG5-dTQ1TM/0fQ0B7ZE8dKS4igqXXL40w/edit)
 
 ---
