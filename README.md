@@ -24,6 +24,12 @@ Analyzed player motivations and comparable titles to define target segments and 
 
 Proposed launch sequencing and growth approach based on user behavior assumptions and market positioning.
 
+## 📌 Product Fact Sheet
+
+![Stardew Fact Sheet](Stardew%20Valley%20Game%20Fact%20Sheet/1.png)
+
+![Stardew Fact Sheet](Stardew%20Valley%20Game%20Fact%20Sheet/2.png)
+
 **Tech:** Market Analysis, User Segmentation, Product Strategy, GTM Strategy
 
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAGkk9sFGjc/RRPXIJRucGYv45BufAJDeg/edit?utm_content=DAGkk9sFGjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
