@@ -16,6 +16,20 @@ Analyzed how pre-launch and post-launch Reddit sentiment, emotion, and discussio
 
 ---
 
+### 🌾 Stardew Valley GTM Strategy
+
+Developed a go-to-market strategy for a simulation game, including audience segmentation, positioning, and launch planning.
+
+Analyzed player motivations and comparable titles to define target segments and recommend a differentiated market entry strategy.
+
+Proposed launch sequencing and growth approach based on user behavior assumptions and market positioning.
+
+**Tech:** Market Analysis, User Segmentation, Product Strategy, GTM Strategy
+
+- 📊 Slides: [View Slides](https://www.canva.com/design/DAGkk9sFGjc/RRPXIJRucGYv45BufAJDeg/edit?utm_content=DAGkk9sFGjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
 ### 📚 Duolingo Learning Model Analysis
 Explored learning behavior and recall probability using large-scale Duolingo data, applying statistical modeling and regression techniques.
 
