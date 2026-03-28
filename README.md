@@ -1,6 +1,6 @@
-# Xinyue (Michelle) Zhang – Portfolio
+# Xinyue (Michelle) Zhang – Data & AI Project Hub
 
-Welcome! I'm a graduate student in Communication Data Science at USC, focused on data analysis, AI applications, and product-driven insights.
+Welcome! I'm a graduate student in Communication Data Science at USC, focused on data analysis, AI applications, and data-driven product insights in consumer technology and gaming.
 
 ---
 
@@ -8,6 +8,8 @@ Welcome! I'm a graduate student in Communication Data Science at USC, focused on
 
 ### 🎮 Sentiment Analysis on Game Communities
 Analyzed Reddit discussions and player sentiment to understand how pre- and post-launch social signals relate to game performance.
+
+**Tech:** Python, NLP, Data Visualization
 
 - 🔗 GitHub: [link]
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAG5-dTQ1TM/0fQ0B7ZE8dKS4igqXXL40w/edit)
@@ -17,12 +19,18 @@ Analyzed Reddit discussions and player sentiment to understand how pre- and post
 ### 📚 Duolingo Learning Model Analysis
 Explored learning behavior and recall probability using large-scale Duolingo data, applying statistical modeling and regression techniques.
 
+**Tech:** Python, pandas, Statistical Modeling, Regression Analysis, Data Visualization
+
 - 🔗 GitHub: [link]
 
 ---
 
 ### 🤖 AI Fit (Digital Twin Prototype)
-Built a prototype that simulates virtual try-on using user body data to improve fit recommendations and reduce returns.
+Built a prototype that simulates virtual try-on using structured user body data (height, weight) to improve fit recommendations and reduce return risk.
+
+Designed prompt-based workflows to generate consistent digital body representations and explored how AI-driven visualization influences user decision-making.
+
+**Tech:** Generative AI, Prompt Engineering, AI Workflow Design, Product Prototyping
 
 - 🔗 Demo: [link](https://v0.app/chat/clothing-shopping-experience-2yJDDrtnQ5s)
 
