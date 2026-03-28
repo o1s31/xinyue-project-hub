@@ -7,9 +7,9 @@ Welcome! I'm a graduate student in Communication Data Science at USC, focused on
 ## Featured Projects
 
 ### 🎮 Sentiment Analysis on Game Communities
-Analyzed Reddit discussions and player sentiment to understand how pre- and post-launch social signals relate to game performance.
+Analyzed how pre-launch and post-launch Reddit sentiment, emotion, and discussion volume related to game launch performance (peak CCU), with genre-level comparisons across Shooting and Simulation titles.
 
-**Tech:** Python, NLP, Data Visualization
+**Tech:** Python, Sentiment Analysis, Data Visualization, Regression Analysis
 
 - 🔗 GitHub: [link](https://github.com/o1s31/game-sentiment-analysis/tree/main)
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAG5-dTQ1TM/0fQ0B7ZE8dKS4igqXXL40w/edit)
