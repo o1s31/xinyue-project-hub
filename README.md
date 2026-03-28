@@ -28,9 +28,10 @@ Proposed launch sequencing and growth approach based on user behavior assumption
 
 A summary of positioning, target audience, and core value proposition.
 
-![Stardew Fact Sheet](stardew_factsheet/fact_main.png)
-
-![Stardew Details](stardew_factsheet/fact_detail.png)
+<p align="center">
+  <img src="stardew_factsheet/fact_main.png" width="45%">
+  <img src="stardew_factsheet/fact_detail.png" width="45%">
+</p>
 
 **Tech:** Market Analysis, User Segmentation, Product Strategy, GTM Strategy
 
