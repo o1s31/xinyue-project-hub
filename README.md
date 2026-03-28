@@ -18,15 +18,13 @@ Analyzed Reddit discussions and player sentiment to understand how pre- and post
 Explored learning behavior and recall probability using large-scale Duolingo data, applying statistical modeling and regression techniques.
 
 - 🔗 GitHub: [link]
-- 📊 Slides: [Canva link]
 
 ---
 
 ### 🤖 AI Fit (Digital Twin Prototype)
 Built a prototype that simulates virtual try-on using user body data to improve fit recommendations and reduce returns.
 
-- 🔗 Demo: [link]
-- 🧠 Case Study: [link]
+- 🔗 Demo: [link](https://v0.app/chat/clothing-shopping-experience-2yJDDrtnQ5s)
 
 ---
 
@@ -39,6 +37,6 @@ Built a prototype that simulates virtual try-on using user body data to improve 
 ---
 
 ## Contact
-- LinkedIn: [link]
+- LinkedIn: [link](https://www.linkedin.com/in/michelle-zhang-623bb2200/)
 - GitHub: [link]
-- Email: [your email]
+- Email: o1sgivenmich@gmail.com
