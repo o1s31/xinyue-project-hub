@@ -4,6 +4,7 @@ Welcome! I'm a graduate student in Communication Data Science at USC, focused on
 
 ---
 
+
 ## Featured Projects
 
 ### 🎮 Sentiment Analysis on Game Communities
@@ -14,7 +15,9 @@ Analyzed how pre-launch and post-launch Reddit sentiment, emotion, and discussio
 - 🔗 GitHub: [link](https://github.com/o1s31/game-sentiment-analysis/tree/main)
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAG5-dTQ1TM/0fQ0B7ZE8dKS4igqXXL40w/edit)
 
+
 ---
+
 
 ### 🌾 Stardew Valley GTM Strategy
 
@@ -37,7 +40,9 @@ A summary of positioning, target audience, and core value proposition.
 
 - 📊 Slides: [View Slides](https://www.canva.com/design/DAGkk9sFGjc/RRPXIJRucGYv45BufAJDeg/edit?utm_content=DAGkk9sFGjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
 ---
+
 
 ### 📚 Duolingo Learning Model Analysis
 Explored learning behavior and recall probability using large-scale Duolingo data, applying statistical modeling and regression techniques.
@@ -46,7 +51,9 @@ Explored learning behavior and recall probability using large-scale Duolingo dat
 
 - 🔗 GitHub: [link](https://github.com/o1s31/duolingo-learning-model)
 
+
 ---
+
 
 ### 🤖 AI Fit (Digital Twin Prototype)
 Built a prototype that simulates virtual try-on using structured user body data (height, weight) to improve fit recommendations and reduce return risk.
@@ -57,7 +64,9 @@ Designed prompt-based workflows to generate consistent digital body representati
 
 - 🔗 Demo: [link](https://v0.app/chat/clothing-shopping-experience-2yJDDrtnQ5s)
 
+
 ---
+
 
 ### 📊 Steam Pricing & Player Perception Dashboard
 Analyzed Steam pricing and discount strategies to understand how discount depth, timing, and game age relate to player reception and perceived value.
@@ -70,7 +79,9 @@ Built an interactive dashboard to visualize pricing strategies and their impact 
 
 - 🔗 Demo: [View Dashboard](https://givenmich.shinyapps.io/info201-final-project/)
 
+
 ---
+
 
 ## Skills
 
