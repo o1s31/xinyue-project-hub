@@ -1,4 +1,4 @@
-# Michelle Zhang – Portfolio
+# Xinyue (Michelle) Zhang – Portfolio
 
 Welcome! I'm a graduate student in Communication Data Science at USC, focused on data analysis, AI applications, and product-driven insights.
 
