@@ -16,6 +16,19 @@ Analyzed how pre-launch and post-launch Reddit sentiment, emotion, and discussio
 
 ---
 
+### 📊 Steam Pricing & Player Perception Dashboard
+Analyzed Steam pricing and discount strategies to understand how discount depth, timing, and game age relate to player reception and perceived value.
+
+Explored relationships between release age, rating feedback, and discount frequency to identify signals of sustained interest versus short-term promotion effects.
+
+Built an interactive dashboard to visualize pricing strategies and their impact on engagement trends.
+
+**Tech:** R, Shiny, Data Visualization, Exploratory Data Analysis
+
+- 🔗 Demo: [View Dashboard](https://givenmich.shinyapps.io/info201-final-project/)
+
+---
+
 ### 📚 Duolingo Learning Model Analysis
 Explored learning behavior and recall probability using large-scale Duolingo data, applying statistical modeling and regression techniques.
 
