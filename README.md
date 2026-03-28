@@ -21,7 +21,7 @@ Explored learning behavior and recall probability using large-scale Duolingo dat
 
 **Tech:** Python, pandas, Statistical Modeling, Regression Analysis, Data Visualization
 
-- 🔗 GitHub: [link]
+- 🔗 GitHub: [link](https://github.com/o1s31/duolingo-learning-model)
 
 ---
 
