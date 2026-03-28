@@ -29,14 +29,39 @@ Built a prototype that simulates virtual try-on using user body data to improve 
 ---
 
 ## Skills
-- Python (pandas, NumPy, scikit-learn)
-- Data Visualization (matplotlib, seaborn)
-- NLP & Sentiment Analysis
-- Product Thinking & Prototyping
+
+### Programming
+- Python (pandas, NumPy)
+- SQL, R
+
+### Data Analysis & Experimentation
+- Exploratory Data Analysis (EDA)
+- Statistical Reasoning
+- A/B Thinking & Experiment Design
+- User Behavior & Retention Analysis
+
+### Machine Learning & Modeling
+- Predictive Modeling
+- Regression Analysis
+- Cross-Validation
+- Model Evaluation & Tuning
+
+### NLP & Text Analysis
+- Sentiment Analysis (Reddit & user-generated content)
+- Text Processing & Cleaning
+
+### Product & AI Applications
+- Product Metrics & Performance Evaluation
+- Generative AI Workflow Design
+- Data-driven decision support
+
+### Data Visualization
+- matplotlib, seaborn
+- Insight communication & storytelling
 
 ---
 
 ## Contact
 - LinkedIn: [link](https://www.linkedin.com/in/michelle-zhang-623bb2200/)
-- GitHub: [link]
+- GitHub: [link](https://github.com/o1s31)
 - Email: o1sgivenmich@gmail.com
