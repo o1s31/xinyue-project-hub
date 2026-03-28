@@ -26,9 +26,11 @@ Proposed launch sequencing and growth approach based on user behavior assumption
 
 ## 📌 Product Fact Sheet
 
-![Stardew Fact Sheet](Stardew%20Valley%20Game%20Fact%20Sheet/1.png)
+A summary of positioning, target audience, and core value proposition.
 
-![Stardew Fact Sheet](Stardew%20Valley%20Game%20Fact%20Sheet/2.png)
+![Stardew Fact Sheet](stardew_factsheet/fact_main.png)
+
+![Stardew Details](stardew_factsheet/fact_detail.png)
 
 **Tech:** Market Analysis, User Segmentation, Product Strategy, GTM Strategy
 
