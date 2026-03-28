@@ -24,7 +24,7 @@ Analyzed player motivations and comparable titles to define target segments and 
 
 Proposed launch sequencing and growth approach based on user behavior assumptions and market positioning.
 
-## 📌 Product Fact Sheet
+#### 📌 Product Fact Sheet
 
 A summary of positioning, target audience, and core value proposition.
 
