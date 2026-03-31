@@ -62,7 +62,7 @@ Designed prompt-based workflows to generate consistent digital body representati
 
 **Tech:** Generative AI, Prompt Engineering, AI Workflow Design, Product Prototyping
 
-- 🔗 Demo: [link](https://v0.app/chat/clothing-shopping-experience-2yJDDrtnQ5s)
+- 🔗 Demo: [link](https://v0-fitly-cyan.vercel.app/)
 
 
 ---
